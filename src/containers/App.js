@@ -16,7 +16,7 @@ function App() {
 
     setTimeout(() => {
       setFact('');
-      setMessage('Click for a new message.');
+      setMessage('Click me for a new message.');
     }, 5000);
   }
 
